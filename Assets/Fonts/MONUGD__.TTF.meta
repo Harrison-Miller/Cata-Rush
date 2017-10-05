@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 96b7fa7b5a6023b40aeaef768a60c9ae
+timeCreated: 1506907077
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monumental Gothic Demo
+  fontNames:
+  - Monumental Gothic Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
